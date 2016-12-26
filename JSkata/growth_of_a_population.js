@@ -1,4 +1,3 @@
-// 7 kyu
 function nbYear (p0, percent, aug, p) {
   let nPop = p0 + (p0 * (percent / 100)) + aug
   let year = 1
