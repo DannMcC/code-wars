@@ -1,5 +1,8 @@
-**Description:**
+7 kyu
+
 [Original Kata] (https://www.codewars.com/kata/584c702256c98fc0a0000043)
+
+**Description:**
 You need to implement a function that applies the standard fizz buzz test:
 *If a number is divisible by 3, return `Fizz`
 *If it is divisible by 5, return `Buzz`
