@@ -15,8 +15,8 @@ Here is an example input:
 `string = 'Tadashi Takahiro Takao Takashi Takayuki Takehiko Takeo Takeshi Takeshi'`
 
 Here is an example return from your function:
-~~~~
- lst = ['Takehiko',
+
+` lst = ['Takehiko',
         'Takayuki',
         'Takahiro',
         'Takeshi',
@@ -25,7 +25,6 @@ Here is an example return from your function:
         'Tadashi',
         'Takeo',
         'Takao']`
-~~~~
 
 Returns
 `xd', 'xxc', 'xxb', 'xxa', 'xd', 'xc', 'xb', 'xa']`        
