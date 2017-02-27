@@ -1,4 +1,4 @@
-7 kyu
+**7 kyu**
 
 [Original Kata] (https://www.codewars.com/kata/514b92a657cdc65150000006)
 

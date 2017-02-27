@@ -1,4 +1,4 @@
-6 kyu
+**6 kyu**
 
 
 [Original Kata] (https://www.codewars.com/kata/multiples-of-3-and-5/train/javascript)

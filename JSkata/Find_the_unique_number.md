@@ -1,4 +1,4 @@
-6 kyu
+**6 kyu**
 
 [Original Kata] (https://www.codewars.com/kata/find-the-unique-number-1/javascript)
 
