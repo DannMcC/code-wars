@@ -1,4 +1,4 @@
-7 kyu
+**7 kyu**
 
 [Original Kata] (http://www.codewars.com/kata/recursion-number-2-fibonacci/train/javascript)
 

@@ -1,4 +1,4 @@
-7 kyu
+**7 kyu**
 
 [original kata] (https://www.codewars.com/kata/summing-a-numbers-digits/javascript)
 

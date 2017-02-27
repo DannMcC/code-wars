@@ -1,4 +1,4 @@
-6 kyu
+**6 kyu**
 
 [Original Kata] (https://www.codewars.com/kata/sum-of-digits-slash-digital-root)
 

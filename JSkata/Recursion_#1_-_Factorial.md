@@ -1,4 +1,4 @@
-7 kyu
+**7 kyu**
 
 [Original Kata] (https://www.codewars.com/kata/recursion-number-1-factorial/javascript)
 
