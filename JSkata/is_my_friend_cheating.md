@@ -15,8 +15,12 @@ For example:
 
 `[(a, b), ...] or [[a, b], ...] or {{a, b}, ...} or or [{a, b}, ...]`
 
-Should return: `11`
+with all `(a, b)` which are the possible removed numbers in the sequence `1` to `n`.
 
-`[160, 3, 1719, 19, 11, 13, -21]`
+`[(a, b), ...] or [[a, b], ...] or {{a, b}, ...} or ... ` will be sorted in increasing order of the "a".
+
+It happens that there are several possible (a, b). The function returns an empty array if no possible numbers are found which will prove that my friend has not told the truth!
+
+(See examples for each language in "RUN EXAMPLES")
 
 Should return: `160`
