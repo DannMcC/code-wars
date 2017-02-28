@@ -1,4 +1,4 @@
-5 kyu
+**5 kyu**
 
 [Original Kata] (www.codewars.com/kata/weight-for-weight/)
 

@@ -1,4 +1,4 @@
-6 kyu
+**6 kyu**
 
 [Original Kata] (www.codewars.com/kata/fizz-slash-buzz/)
 

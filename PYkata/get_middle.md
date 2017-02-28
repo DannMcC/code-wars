@@ -1,4 +1,4 @@
-7 kyu
+**7 kyu**
 
 [Original Kata] (https://www.codewars.com/kata/get-the-middle-character/python)
 

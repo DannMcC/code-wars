@@ -1,4 +1,4 @@
-6 kyu
+**6 kyu**
 
 [Original Kata] (https://www.codewars.com/kata/are-they-the-same)
 
